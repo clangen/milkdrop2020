@@ -267,6 +267,9 @@
     <ClCompile Include="..\..\external\lzma1801\C\XzIn.c">
       <Filter>external\lzma</Filter>
     </ClCompile>
+    <ClCompile Include="..\PresetBundle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="plugin.h">
@@ -493,6 +496,9 @@
     </ClInclude>
     <ClInclude Include="..\..\external\lzma1801\C\XzEnc.h">
       <Filter>external\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PresetBundle.h">
+      <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
