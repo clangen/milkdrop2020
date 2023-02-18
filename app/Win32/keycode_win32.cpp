@@ -224,7 +224,7 @@ KeyCode ConvertKeyCode_Win32(int code)
         case    VK_PRIOR                  :
             return KEYCODE_PAGEUP;
         case    VK_BACK           :
-            return KEYCODE_DELETE;
+            return KEYCODE_BACKSPACE;
         case    VK_F4                      :
             return KEYCODE_F4;
         case    VK_END                     :
